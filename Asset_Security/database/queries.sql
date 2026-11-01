@@ -1,0 +1,4 @@
+-- CampusAssetSecurity Common Database Queries & Analytics
+-- Target Database: MySQL 8.x
+-- Database Name: campus_asset_security
+-- To be initialized in Phase 2

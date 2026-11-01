@@ -1,0 +1,6 @@
+{
+  "name": "CampusAssetSecurity",
+  "description": "Smart Perimeter Campus Asset Monitoring, Recovery and Anti-Theft System using IoT, RFID, ESP32-CAM, Express and MySQL",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
